@@ -7,7 +7,7 @@
 """
 Created on Thu Oct 31 12:34:01 2024
 
-@author: spal_gnome
+@author: 
 """
 
 import oqs
